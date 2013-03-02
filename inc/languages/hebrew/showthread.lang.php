@@ -1,0 +1,105 @@
+<?php
+/**
+ * MyBB 1.6 English Language Pack
+ * Copyright 2010 MyBB Group, All Rights Reserved
+ * 
+ * $Id: showthread.lang.php 5016 2010-06-12 00:24:02Z RyanGordon $
+ */
+
+$l['nav_showteam'] = "צוות הפורום";
+$l['forum_team'] = "צוות הפורום";
+$l['moderators'] = "מנהלים";
+$l['mod_username'] = "שם משתמש";
+$l['mod_forums'] = "פורומים";
+$l['mod_email'] = "אמייל";
+$l['mod_pm'] = "הודעה פרטית";
+$l['uname'] = "שם משתמש";
+$l['email'] = "אמייל";
+$l['pm'] = "הודעה פרטית";
+$l['group_leaders'] = "מנהלי קבוצה";
+$l['group_members'] = "חברי קבוצה";
+$l['no_members'] = "אין חברים בקבוצה זו";
+$l['error_noteamstoshow'] = "אין הנהלת פורום להציג.";
+$l['delete_poll'] = "מחק סקר";
+$l['close_thread'] = "סגור אשכול";
+$l['stick_thread'] = "נעץ אשכול";
+$l['author'] = "יוצר";
+$l['message'] = "הודעה";
+$l['threaded'] = "מצב אשכולתי";
+$l['linear'] = "מצב לינארי";
+$l['next_oldest'] = "ישן יותר";
+$l['next_newest'] = "חדש יותר";
+$l['view_printable'] = "הצג גירסה להדפסה";
+$l['send_thread'] = "שלח אשכול זה לחבר";
+$l['subscribe_thread'] = "הרשם לאשכול זה";
+$l['unsubscribe_thread'] = "בטל הרשמה לאשכול זה";
+$l['moderation_options'] = "אפשרויות ניהול:";
+$l['delayed_moderation'] = "פעולה מאוחרת";
+$l['thread_notes'] = "ערוך / צפה בהערות אשכול";
+$l['open_close_thread'] = "פתח / סגור אשכול";
+$l['approve_thread'] = "אשר אשכול";
+$l['unapprove_thread'] = "אל תאשר אשכול";
+$l['delete_thread'] = "מחק אשכול";
+$l['delete_posts'] = "מחק הודעות שנבחרו";
+$l['move_thread'] = "העבר / העתק אשכול";
+$l['stick_unstick_thread'] = "נעץ / בטל נעיצת אשכול";
+$l['split_thread'] = "פצל אשכול";
+$l['merge_threads'] = "אחד אשכולות";
+$l['merge_posts'] = "אחד הודעות שנבחרו";
+$l['remove_redirects'] = "מחק קישורים לאשכול זה";
+$l['remove_subscriptions'] = "מחק הרשמות לאשכול זה";
+$l['poll'] = "סקר:";
+$l['show_results'] = "צפה בתוצאות";
+$l['edit_poll'] = "ערוך סקר";
+$l['public_note'] = "<b>הערה:</b> זהו סקר ציבורי,משתמשים אחרים יוכלו לראות למה הצבעת.";
+$l['total'] = "סך הכל";
+$l['vote'] = "הצבע!";
+$l['total_votes'] = "{1} הצבעות";
+$l['you_voted'] = "* הצבעת לאפשרות זו.";
+$l['poll_closed'] = "סקר זה נסגר.";
+$l['already_voted'] = "כבר הצבעת לסקר זה.";
+$l['undo_vote'] = "בטל הצבעה";
+$l['quick_reply'] = "תגובה מהירה";
+$l['message_note'] = "כתוב את התגובה שלך להודעה זו כאן.";
+$l['signature'] = "חתימה";
+$l['email_notify'] = "התראת אמייל";
+$l['disable_smilies'] = "בטל סמיילים";
+$l['post_reply'] = "שלח תגובה";
+$l['post_reply_img'] = "שלח תגובה";
+$l['post_thread'] = "שלח אשכול";
+$l['preview_post'] = "תצוגה מקדימה להודעה";
+$l['rating_average'] = "{1} הצבעות - {2} ממוצע";
+$l['rate_thread'] = "דרג אשכול זה:";
+$l['thread_rating'] = "דירוג האשכול:";
+$l['similar_threads'] = "אולי תתעניין גם...";
+$l['thread'] = "אשכול:";
+$l['replies'] = "תגובות:";
+$l['views'] = "צפיות:";
+$l['lastpost'] = "תגובה אחרונה";
+$l['messages_in_thread'] = "הודעות באשכול זה";
+$l['users_browsing_thread'] = "משתמשים שצופים באשכול זה:";
+$l['users_browsing_thread_guests'] = "{1} אורחים";
+$l['users_browsing_thread_invis'] = "{1} בלתי נראים";
+$l['users_browsing_thread_reading'] = "קורא...";
+$l['inline_delete_posts'] = "מחק הודעות";
+$l['inline_merge_posts'] = "אחד הודעות";
+$l['inline_split_posts'] = "פצל הודעות";
+$l['inline_approve_posts'] = "אשר הודעות";
+$l['inline_unapprove_posts'] = "אל תאשר הודעות";
+$l['inline_post_moderation'] = "ניהול הודעות:";
+$l['inline_go'] = "סע";
+$l['clear'] = "נקה";
+$l['thread_closed'] = "אשכול נעול";
+$l['no_subject'] = "אין כותרת";
+$l['error_nonextnewest'] = "אין אשכולות חודשים יותר מהאשכול הקודם בו צפית.";
+$l['error_nonextoldest'] = "אין אשכולות ישנים יותר מהאשכול בו צפית.";
+$l['quickreply_multiquote_selected'] = "בחרת אחת או יותר הודעות לציטוט.";
+$l['quickreply_multiquote_now'] = "צטט הודעות אלה עכשיו";
+$l['or'] = "או";
+$l['quickreply_multiquote_deselect'] = "בטל בחירה";
+$l['search_thread'] = "חפש אשכול";
+$l['enter_keywords'] = "רשום מילות מפתח";
+$l['image_verification'] = "אימות תמונה";
+$l['verification_note'] = "אנא כתוב את הטקסט שמופיע בתמונה מימין למטה. הליך זה נועד למנוע הודעות אוטומטיות.";
+$l['verification_subnote'] = "(יש הבדל בין אותיות קטנות לגדולות)";
+?>
